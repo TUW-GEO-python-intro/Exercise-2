@@ -15,47 +15,47 @@ names, column names or positions. The files are written in random formats (e.g.
 clue. All files can be downloaded from
 [here](http://rs.geo.tuwien.ac.at/downloads/cpa/), however, you will only be
 able to download a file once knowing its correct file name. All names are
-lowercase!
+lowercase (e.g. http://rs.geo.tuwien.ac.at/downloads/cpa/filename1.csv)!
 
 ## Clues
 
-1. Please download ~filename1.csv~ and read ~column1~ at row number ~row1~,
-   which will give you ~filename2part1~. Prove the solution of riddle ~row1~
+1. Please download **filename1.csv** and read **column1** at row number **row1**,
+   which will give you **filename2part1**. Prove the solution of riddle **row1**
    with a histogram.
-   - ~filename1.csv~: /It has 4 legs but cannot walk./
-   - ~column1~: /Young I'm tall, old I'm short, I love to glow, breath is my
+   - **filename1.csv**: /It has 4 legs but cannot walk./
+   - **column1**: /Young I'm tall, old I'm short, I love to glow, breath is my
      foe./
-   - ~row1~: /What digit is the most frequent between the numbers 1 and 1000?/
+   - **row1**: /What digit is the most frequent between the numbers 1 and 1000?/
 
-2. Please download ~filename2part1_filename2part2.nc~, which is a treasure
-   map. Read and plot ~variable2~. Which capital city has been marked? The
-   answer to this question will give you ~filename3part1~.
-   - ~filename2part2~: /Stay hungry, stay ......, Steve Jobs/
-   - ~variable2~: /May the ..... be with you, Han Solo/
+2. Please download **filename2part1_filename2part2.nc**, which is a treasure
+   map. Read and plot **variable2**. Which capital city has been marked? The
+   answer to this question will give you **filename3part1**.
+   - **filename2part2**: /Stay hungry, stay ......, Steve Jobs/
+   - **variable2**: /May the ..... be with you, Han Solo/
 
-3. Please download ~filename3part1_filename3part2.npz~ and read ~variable3~. In
-   ~row3~ you will find ~filename4.bin~.
+3. Please download **filename3part1_filename3part2.npz** and read **variable3**. In
+   **row3** you will find **filename4.bin**.
 
-   - ~filename3_part2~: /What planet has the shortest year?/
-   - ~variable3~: /I'll be ...., Arnold Schwarzenegger/
-   - ~row3~: Mean of ~column3~ in the file ~filename1.csv~.
-   - ~column3~: /An ..... a day keeps the doctor away!/
+   - **filename3_part2**: /What planet has the shortest year?/
+   - **variable3**: /I'll be ...., Arnold Schwarzenegger/
+   - **row3**: Mean of **column3** in the file **filename1.csv**.
+   - **column3**: /An ..... a day keeps the doctor away!/
 
-4. Please download ~filename4.bin~. The first 107 bytes will tell you how to
+4. Please download **filename4.bin**. The first 107 bytes will tell you how to
    read the rest of the file. 
   
 5. Finally you have to generate a HDF5 file on your own representing the final
-   treasure map. The file needs to have 3 variables: ~longitude~, ~latitude~ and
-   ~dataset~. You should be able to generate a plot from your file and find the
+   treasure map. The file needs to have 3 variables: **longitude**, **latitude** and
+   **dataset**. You should be able to generate a plot from your file and find the
    name of the island where the treasure can be found.
 
-   - ~longitude~: data can be found in ~filename1.csv~ in ~column5~
-   - ~latitude~: data can be found in ~filename3.npz~ in ~variable5a~
-   - ~dataset~: data can be found in ~filename4.bin~ in ~variable5b~
-   - ~column5~: /Alive without breath, as cold as death; never thirsty, ever
+   - **longitude**: data can be found in **filename1.csv** in **column5**
+   - **latitude**: data can be found in **filename3.npz** in **variable5a**
+   - **dataset**: data can be found in **filename4.bin** in **variable5b**
+   - **column5**: /Alive without breath, as cold as death; never thirsty, ever
      drinking, all in mail, never clinking./
-   - ~variable5a~: /What gets wetter and wetter the more it dries?/
-   - ~variable5b~: /What is black and white and red all over?/
+   - **variable5a**: /What gets wetter and wetter the more it dries?/
+   - **variable5b**: /What is black and white and red all over?/
 
 ## Programm interface
 
