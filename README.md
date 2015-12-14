@@ -73,7 +73,7 @@ examples how to plot data on a map.
 
 ### Downloading files
 
-The package (urllib2)[https://docs.python.org/2/library/urllib2.html] comes with
+The package [urllib2](https://docs.python.org/2/library/urllib2.html) comes with
 the standard library.
 
 ## Reporting
