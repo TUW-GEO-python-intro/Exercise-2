@@ -65,10 +65,10 @@ lowercase (e.g. http://rs.geo.tuwien.ac.at/downloads/cpa/filename1.csv)!
    - **longitude**: data can be found in **filename1.csv** in **column5**
    - **latitude**: data can be found in **filename3.npz** in **variable5a**
    - **dataset**: data can be found in **filename4.bin** in **variable5b**
-   - **column5**: /Alive without breath, as cold as death; never thirsty, ever
-     drinking, all in mail, never clinking./
-   - **variable5a**: /What gets wetter and wetter the more it dries?/
-   - **variable5b**: /What is black and white and red all over?/
+   - **column5**: *Alive without breath, as cold as death; never thirsty, ever
+     drinking, all in mail, never clinking.*
+   - **variable5a**: *What gets wetter and wetter the more it dries?*
+   - **variable5b**: *What is black and white and red all over?*
 
 ## Programm interface
 
