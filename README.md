@@ -10,6 +10,7 @@ Table of Contents
       * [Downloading files](#downloading-files)
     * [Reporting](#reporting)
     * [Deadline](#deadline)
+    * [Grading](#grading)
 
 # Exercise-2
 
@@ -102,3 +103,15 @@ Please .zip all files and send it to
 ## Deadline
 
 18.01.2016 23:59
+
+## Grading
+
+The grade for this exercise will be based on the implementation style (30%), the
+documentation of your code (30%), if the code is working (30%) and the complete
+delivery of all files (code and graphics) (10%).
+
+1. 91-100
+2. 81-90
+3. 66-80
+4. 51-65
+5. < 51
