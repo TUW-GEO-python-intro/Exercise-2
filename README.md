@@ -1,3 +1,16 @@
+Table of Contents
+=================
+
+  * [Exercise-2](#exercise-2)
+    * [Game instructions](#game-instructions)
+    * [Clues](#clues)
+    * [Programm interface](#programm-interface)
+    * [Hints](#hints)
+      * [Plotting maps](#plotting-maps)
+      * [Downloading files](#downloading-files)
+    * [Reporting](#reporting)
+    * [Deadline](#deadline)
+
 # Exercise-2
 
 The second exercise is a treasure hunt based on common sense and your ability to
@@ -22,24 +35,24 @@ lowercase (e.g. http://rs.geo.tuwien.ac.at/downloads/cpa/filename1.csv)!
 1. Please download **filename1.csv** and read **column1** at row number **row1**,
    which will give you **filename2part1**. Prove the solution of riddle **row1**
    with a histogram.
-   - **filename1.csv**: /It has 4 legs but cannot walk./
-   - **column1**: /Young I'm tall, old I'm short, I love to glow, breath is my
-     foe./
-   - **row1**: /What digit is the most frequent between the numbers 1 and 1000?/
+   - **filename1.csv**: *It has 4 legs but cannot walk.*
+   - **column1**: *Young I'm tall, old I'm short, I love to glow, breath is my
+     foe.*
+   - **row1**: *What digit is the most frequent between the numbers 1 and 1000?*
 
 2. Please download **filename2part1_filename2part2.nc**, which is a treasure
    map. Read and plot **variable2**. Which capital city has been marked? The
    answer to this question will give you **filename3part1**.
-   - **filename2part2**: /Stay hungry, stay ......, Steve Jobs/
-   - **variable2**: /May the ..... be with you, Han Solo/
+   - **filename2part2**: *Stay hungry, stay ......, Steve Jobs*
+   - **variable2**: *May the ..... be with you, Han Solo*
 
 3. Please download **filename3part1_filename3part2.npz** and read **variable3**. In
    **row3** you will find **filename4.bin**.
 
-   - **filename3_part2**: /What planet has the shortest year?/
-   - **variable3**: /I'll be ...., Arnold Schwarzenegger/
+   - **filename3_part2**: *What planet has the shortest year?*
+   - **variable3**: *I'll be ...., Arnold Schwarzenegger*
    - **row3**: Mean of **column3** in the file **filename1.csv**.
-   - **column3**: /An ..... a day keeps the doctor away!/
+   - **column3**: *An ..... a day keeps the doctor away!*
 
 4. Please download **filename4.bin**. The first 107 bytes will tell you how to
    read the rest of the file. 
